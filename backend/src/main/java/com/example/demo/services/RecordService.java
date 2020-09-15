@@ -3,6 +3,8 @@ package com.example.demo.services;
 import java.time.Instant;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -35,6 +37,11 @@ public class RecordService {
 		repository.save(entity);
 		
 		return new RecordDTO(entity);
+	}
+
+	public Page<RecordDTO> findbyMoments(Instant min, Instant max, PageRequest pageRequest) {
+		
+		return repository.findByMoments(min, max, pageRequest).map(entity -> new RecordDTO(entity));
 	}
 
 }
