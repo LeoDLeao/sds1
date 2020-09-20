@@ -625,3 +625,341 @@ Use '--' to separate paths from revisions, like this:
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/pages/Home/index.tsx
+> git cat-file -s 92dae08e945acd1f6fd6c8c5955f93aa08dd8245
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :src/pages/Home/index.tsx
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/routes.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/routes.tsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/App.tsx
+> git cat-file -s 1168091697de3339153afa0ef8143928c1cbc51a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/routes.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/routes.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/App.tsx
+> git rev-parse master
+> git cat-file -s 1168091697de3339153afa0ef8143928c1cbc51a
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/routes.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/routes.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/App.tsx
+> git cat-file -s 1168091697de3339153afa0ef8143928c1cbc51a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/routes.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/routes.tsx
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/App.tsx
+> git cat-file -s 1168091697de3339153afa0ef8143928c1cbc51a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/Home/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/pages/Home/index.tsx
+> git cat-file -s 92dae08e945acd1f6fd6c8c5955f93aa08dd8245
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/CreateRecord/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/pages/CreateRecord/index.tsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/routes.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/routes.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/CreateRecord/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/pages/CreateRecord/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/App.tsx
+> git cat-file -s 1168091697de3339153afa0ef8143928c1cbc51a
+> git show --textconv :src/pages/Home/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/pages/Home/index.tsx
+> git cat-file -s 92dae08e945acd1f6fd6c8c5955f93aa08dd8245
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/CreateRecord/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/pages/CreateRecord/index.tsx
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/App.tsx
+> git cat-file -s 1168091697de3339153afa0ef8143928c1cbc51a
+> git show --textconv :src/pages/CreateRecord/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/pages/CreateRecord/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/components/Header/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/components/Header/index.tsx
+> git cat-file -s 0ece208e82fca6b0807c3872579fb833c6f540c7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/App.tsx
+> git cat-file -s 1168091697de3339153afa0ef8143928c1cbc51a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/pages/CreateRecord/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/pages/CreateRecord/index.tsx
+> git show --textconv :src/components/Header/index.tsx
+> git ls-files --stage -- /home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/src/components/Header/index.tsx
+> git cat-file -s 0ece208e82fca6b0807c3872579fb833c6f540c7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
