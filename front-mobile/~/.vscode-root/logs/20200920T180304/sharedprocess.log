@@ -1,0 +1,3 @@
+[2020-09-20 18:03:08.893] [sharedprocess] [info] main {"machineId":"be246e1e2e74277fc0e247b81bce099e3d9841173d89aebe2e82dedf0e118257","windowId":2}
+[2020-09-20 18:03:09.030] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/leo/Workspaces/ws-sts/dspesquisa/front-mobile/~/.vscode-root/User/snippets'
+[2020-09-20 18:03:48.961] [sharedprocess] [info] Starting to clean up unused language packs.
