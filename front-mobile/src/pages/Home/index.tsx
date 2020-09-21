@@ -1,9 +1,9 @@
 import React from 'react';
-import { Text, StyleSheet, View, Image ,Alert} from 'react-native'
-import { RectButton } from 'react-native-gesture-handler';
-import {FontAwesome5 as Icon} from '@expo/vector-icons'
+import { Text, StyleSheet, View, Image, Alert } from 'react-native'
+import { RectButton, ScrollView } from 'react-native-gesture-handler';
+import { FontAwesome5 as Icon } from '@expo/vector-icons'
 import Header from '../../components/Header';
-import { useNavigation} from '@react-navigation/native'
+import { useNavigation } from '@react-navigation/native'
 
 
 const Home = () => {
@@ -15,25 +15,28 @@ const Home = () => {
     }
     return (
         <>
-        <Header/>
-            <View style={styles.container}>
-                <Image source={require('../../assets/gamer.png')}
-                    style={styles.gamerImage} />
+            <ScrollView>
+                <Header />
+                <View style={styles.container}>
+                    <Image source={require('../../assets/gamer.png')}
+                        style={styles.gamerImage} />
 
-                <Text style={styles.title}>Vote agora!</Text>
-                <Text style={styles.subTitle}>Nos diga qual é seu jogo favorito!</Text>
-            </View>
-            <View style={styles.footer}>
-                <RectButton style={styles.button} onPress={handleOnPress}>
-                    <Text style={styles.buttonText}>
-                    COLETAR DADOS
+                    <Text style={styles.title}>Vote agora!</Text>
+                    <Text style={styles.subTitle}>Nos diga qual é seu jogo favorito!</Text>
+                </View>
+                <View style={styles.footer}>
+                    <RectButton style={styles.button} onPress={handleOnPress}>
+                        <Text style={styles.buttonText}>
+                            COLETAR DADOS
                     </Text>
-                    <View style={styles.buttonIcon}>
-                        <Icon name ="chevron-right" color="#FFF" size={25}/>
-                    </View>
-                </RectButton>
-            </View>
+                        <View style={styles.buttonIcon}>
+                            <Icon name="chevron-right" color="#FFF" size={25} />
+                        </View>
+                    </RectButton>
+                </View>
+            </ScrollView>
         </>
+
 
     )
 };
